@@ -1,3 +1,9 @@
+my-passwords.txt
+drafts/*
+secret.md
+#txt
+*.txt
+!plans.txt
 # Logs
 logs
 *.log
